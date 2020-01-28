@@ -1,3 +1,5 @@
 .mw {
     display: none !important;
 }
+
+body { background: green !important; }
