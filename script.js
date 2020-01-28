@@ -1,1 +1,1 @@
-alert('...');
+console.log('Hola amigos!');
